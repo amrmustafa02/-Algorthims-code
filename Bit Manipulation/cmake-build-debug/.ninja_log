@@ -1,0 +1,20 @@
+# ninja log v5
+20	340	6985551602679948	build.ninja	763fb6e93c3806a6
+1	550	6985551608892629	CMakeFiles/Bit_Manipulation.dir/main.cpp.obj	7b100401ca7e3fd6
+553	733	6985551610692252	Bit_Manipulation.exe	b3a0b74487747d46
+2	809	6985552658476354	CMakeFiles/Bit_Manipulation.dir/main.cpp.obj	7b100401ca7e3fd6
+809	903	6985552659386357	Bit_Manipulation.exe	b3a0b74487747d46
+3	501	6995088561065040	CMakeFiles/Bit_Manipulation.dir/main.cpp.obj	7b100401ca7e3fd6
+501	766	6995088563686098	Bit_Manipulation.exe	b3a0b74487747d46
+3	507	6995102943121924	CMakeFiles/Bit_Manipulation.dir/main.cpp.obj	7b100401ca7e3fd6
+507	603	6995102944042181	Bit_Manipulation.exe	b3a0b74487747d46
+3	557	6995121054758968	CMakeFiles/Bit_Manipulation.dir/main.cpp.obj	7b100401ca7e3fd6
+558	712	6995121056278967	Bit_Manipulation.exe	b3a0b74487747d46
+3	694	6996163556583405	CMakeFiles/Bit_Manipulation.dir/main.cpp.obj	7b100401ca7e3fd6
+695	901	6996163558613428	Bit_Manipulation.exe	b3a0b74487747d46
+2	491	6996164934103083	CMakeFiles/Bit_Manipulation.dir/main.cpp.obj	7b100401ca7e3fd6
+492	578	6996164934933227	Bit_Manipulation.exe	b3a0b74487747d46
+5	559	6996186500492965	CMakeFiles/Bit_Manipulation.dir/main.cpp.obj	7b100401ca7e3fd6
+560	713	6996186502022963	Bit_Manipulation.exe	b3a0b74487747d46
+3	506	6996187071695515	CMakeFiles/Bit_Manipulation.dir/main.cpp.obj	7b100401ca7e3fd6
+506	602	6996187072655496	Bit_Manipulation.exe	b3a0b74487747d46
